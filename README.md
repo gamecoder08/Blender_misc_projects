@@ -1,3 +1,3 @@
 # Blender Misc Projects( & Models)
 
-A repo where I will upload my Blender models and random practice projects.
+A repo where for my Blender models and random practice Blender projects.
